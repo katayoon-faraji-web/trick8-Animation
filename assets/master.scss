@@ -1,0 +1,76 @@
+body{
+    display: flex;
+    align-items: center;
+    animation: bg 5s linear infinite;
+    >section{
+        width: 130%;
+        height: 350px;
+        border: 2px solid white;
+        // background-color: red;
+        display: flex;
+        align-items: center;
+        >section{
+            width: 130%;
+            height: 340px;
+            border: 2px solid white;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            >*{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                letter-spacing: 4px;
+            }
+            >h1{
+                width: 100%;
+                font-size: 100px;
+                color: white;
+                background-image: url(img/animated-text-fill.png);
+                background-repeat: repeat-y;
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                animation: anime1 50s linear infinite; 
+             
+    
+            }
+            >h3{
+                margin: 20px 0;
+                font-size: 30px;
+                width: 100%;
+                color: rgb(173, 172, 172);
+
+            }
+        }
+       
+    }
+}
+@keyframes anime1 {
+    0%{
+        background-position: 0% 57%;
+    }
+    100%{
+        background-position: 100% 57%;
+    }
+}
+@keyframes bg {
+    0%{
+        background-color: rgb(9 13 0);
+    }
+    20%{
+        background-color:#ee5100 ;
+    }
+    40%{
+        background-color: rgb(9 13 0);
+    }
+    60%{
+        background-color:#ee5100 ;
+    }
+    80%{
+        background-color: rgb(9 13 0);
+    }
+    100%{
+        background-color:#ee5100 ;
+    }
+}
