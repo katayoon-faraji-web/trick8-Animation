@@ -1,3 +1,14 @@
 # trick8
 
-https://github.com/katayoon-faraji-web/trick8/issues/1#issue-1966080310
+
+- [Demo Project](https://katayoon-faraji-web.github.io/trick7/)
+
+- Developed by katayoon faraji
+
+- 🗓️Created - 2023-10
+
+- 💻Technologies Used - Html , Css , Css3 , Animation,Sass
+
+- Role - Frontend
+
+- How to reach me 👩🏻: with my [instagram](https://instagram.com/katayoon_faraji_web) and [linkedin](https://www.linkedin.com/in/katayoon-faraji-web-3b722b207r)
