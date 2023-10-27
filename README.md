@@ -1,7 +1,7 @@
 # trick8
 
 
-- [Demo Project](https://katayoon-faraji-web.github.io/trick7/)
+- [Demo Project](https://katayoon-faraji-web.github.io/trick8/)
 
 - Developed by katayoon faraji
 
