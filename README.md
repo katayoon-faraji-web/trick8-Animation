@@ -6,7 +6,7 @@ https://github.com/katayoon-faraji-web/trick8/assets/144775981/473f45aa-7b70-498
 
 - Developed by katayoon faraji
 
-- 🗓️Created - 2023-10
+- 🗓️Created - 2023-10-16
 
 - 💻Technologies Used - Html , Css , Css3 , Animation,Sass
 
