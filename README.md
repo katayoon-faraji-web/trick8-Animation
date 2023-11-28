@@ -1,8 +1,8 @@
-# trick8
+# trick8-Animation
 
 https://github.com/katayoon-faraji-web/trick8/assets/144775981/473f45aa-7b70-498c-bd90-514caaba55b0
 
-- [Demo Project](https://katayoon-faraji-web.github.io/trick8/)
+- [Demo Project](https://katayoon-faraji-web.github.io/trick8-Animation/)
 
 - Developed by katayoon faraji
 
